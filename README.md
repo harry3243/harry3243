@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2 align="center">Hey, I'm Harry 👋</h2>
 
-<!--
-**harry3243/harry3243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><sub>MCA student · full-stack developer · Bangalore, India</sub></p>
 
-Here are some ideas to get you started:
+```bash
+harry@bangalore:~$ whoami
+Harry, building clean, responsive and secure-by-design web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+harry@bangalore:~$ cat stack.txt
+frontend   HTML · CSS · JavaScript
+backend    Python · Java
+database   MySQL · MongoDB
+tools      Git · GitHub · Vercel · VS Code
+
+harry@bangalore:~$ cat now.txt
+learning   Cloud · AI · Cybersecurity
+building   AI text-to-video · RepairHub
+open to    Entry-level full-stack roles
+
+harry@bangalore:~$ ls projects/
+repairhub/   text-to-video-site/   portfolio/
+
+harry@bangalore:~$ _
+```
+
+<p align="center">
+  <a href="https://harry3243.github.io/portfolio/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harry-son-a4b3ab2b1/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:jonieedrake@gmail.com">Email</a>
+</p>
