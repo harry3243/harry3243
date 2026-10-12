@@ -30,4 +30,4 @@ const harry = {
 - I'm into computer networks and hardware
 - I built an AI that turns text into video
 
-<p align="center"> <a href="https://harry3243.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2f81f7" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/harry-son-a4b3ab2b1/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262d" alt="LinkedIn" /></a> <a href="mailto:jonieedrake@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21262d" alt="Email" /></a> </p>
+
