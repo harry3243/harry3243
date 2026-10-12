@@ -8,9 +8,7 @@ If an idea pops into my head, I'll probably build it, break it, and fix it.
 
 My main stack is **HTML, CSS, JavaScript, Python and Java**. I use **Git, GitHub, Vercel and VS Code** every day.
 
-My favorites among my pinned projects are [RepairHub](https://github.com/harry3243/repairhub) and 
-
-the [Text-to-Video Site](https://github.com/harry3243/text-to-video-site).
+My favorites among my pinned projects are [RepairHub](https://github.com/harry3243/repairhub) and the [Text-to-Video Site](https://github.com/harry3243/text-to-video-site).
 
 Want to see more of my work? Check out my [portfolio](https://harry3243.github.io/portfolio/).
 
