@@ -17,6 +17,5 @@ I'm open to entry-level full-stack roles. Want to see more of my work? Check out
 **Fun facts:**
 
 - I speak four languages: English, Kannada, Hindi and Tamil
-- I worked in security before I started writing code
 - I'm into computer networks and hardware
 - I built an AI that turns text into video
